@@ -8,6 +8,8 @@ public class Desafio {
 		
 		System.out.println("Meu repositório do Git está uma bagunça");
 		
+		System.out.println("Preciso aprender a organizar essa pasta");
+		
 		sc.close();
 
 	}
