@@ -6,7 +6,7 @@ public class Desafio {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		
+		System.out.println("Meu repositório do Git está uma bagunça");
 		
 		sc.close();
 
